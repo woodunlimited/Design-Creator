@@ -1,0 +1,7 @@
+pillow==10.4.0
+numpy==1.26.4
+opencv-python-headless==4.10.0.84
+click==8.1.7
+pydantic==2.8.2
+pyyaml==6.0.2
+cairosvg==2.7.1

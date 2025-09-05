@@ -1,0 +1,45 @@
+{
+    "image":  "REPLACE_ME.png",
+    "variants":  [
+
+                 ],
+    "areas":  [
+                  {
+                      "id":  "front",
+                      "shape":  "rect",
+                      "units":  "norm",
+                      "rect":  {
+                                   "x":  0.25,
+                                   "y":  0.25,
+                                   "w":  0.50,
+                                   "h":  0.50
+                               },
+                      "fit":  "contain",
+                      "padding_ratio":  0,
+                      "align":  "center",
+                      "warp":  {
+                                   "type":  "cylindrical",
+                                   "strength":  0.05,
+                                   "direction":  "vertical"
+                               },
+                      "stainless":  {
+                                        "preset":  "stainless_brushed_vertical",
+                                        "grain":  "vertical",
+                                        "knockout_white":  245,
+                                        "texture_path":  "C:\\Users\\Louie\\Design Creator\\textures\\stainless_custom.jpg"
+                                    }
+                  }
+              ],
+    "output":  {
+                   "views":  [
+                                 {
+                                     "name":  "tight",
+                                     "margin":  0.06
+                                 },
+                                 {
+                                     "name":  "wide",
+                                     "margin":  0.14
+                                 }
+                             ]
+               }
+}

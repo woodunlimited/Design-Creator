@@ -1,0 +1,34 @@
+{
+  "image": "LTM851_BLANK.png",
+  "variants": [
+  "LTM852_BLANK.png",
+  "LTM853_BLANK.png",
+  "LTM854_BLANK.png",
+  "LTM855_BLANK.png",
+  "LTM856_BLANK.png",
+  "LTM857_BLANK.png",
+  "LTM858_BLANK.png",
+  "LTM859_BLANK.png",
+  "LTM860_BLANK.png",
+  "LTM861_BLANK.png",
+  "LTM862_BLANK.png",
+  "LTM863_BLANK.png",
+  "LTM864_BLANK.png",
+  "LTM865_BLANK.png",
+  "LTM866_BLANK.png",
+  "LTM867_BLANK.png"
+],
+  "areas": [
+  {
+    "id": "front",
+    "shape": "rect",
+    "units": "norm",
+    "rect": { "x": 0.2386, "y": 0.2270, "w": 0.5227, "h": 0.5460 },
+    "fit": "contain",
+    "padding_ratio": 0.05,
+    "align": "center",
+    "warp": { "type": "cylindrical", "strength": 0.05, "direction": "vertical" },
+    "stainless": { "preset": "stainless_brushed_vertical", "grain": "vertical" }
+  }
+]
+}

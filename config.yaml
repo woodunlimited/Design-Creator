@@ -1,0 +1,6 @@
+size: 2400
+quality: 92
+margin_ratio: 0.06
+default_warp_strength: 0.18
+default_padding_ratio: 0.05
+stainless_texture: textures\stainless_v.png

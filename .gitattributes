@@ -1,0 +1,4 @@
+bases/**/*.png filter=lfs diff=lfs merge=lfs -text
+bases/**/*.jpg filter=lfs diff=lfs merge=lfs -text
+textures/**/*.png filter=lfs diff=lfs merge=lfs -text
+textures/**/*.jpg filter=lfs diff=lfs merge=lfs -text

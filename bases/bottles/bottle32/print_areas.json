@@ -1,0 +1,61 @@
+{
+    "image":  "LWB201_BLANK.png",
+    "variants":  [
+                     "LWB202_BLANK.png",
+                     "LWB203_BLANK.png",
+                     "LWB204_BLANK.png",
+                     "LWB205_BLANK.png",
+                     "LWB206_BLANK.png",
+                     "LWB207_BLANK.png",
+                     "LWB208_BLANK.png",
+                     "LWB209_BLANK.png",
+                     "LWB210_BLANK.png",
+                     "LWB211_BLANK.png",
+                     "LWB212_BLANK.png",
+                     "LWB213_BLANK.png",
+                     "LWB214_BLANK.png",
+                     "LWB215_BLANK.png",
+                     "LWB216_BLANK.png",
+                     "LWB217_BLANK.png",
+                     "LWB218_BLANK.png"
+                 ],
+    "areas":  [
+                  {
+                      "id":  "front",
+                      "shape":  "rect",
+                      "units":  "norm",
+                      "rect":  {
+                                   "x":  0.3856,
+                                   "y":  0.3106,
+                                   "w":  0.3183,
+                                   "h":  0.5117
+                               },
+                      "fit":  "contain",
+                      "padding_ratio":  0,
+                      "align":  "center",
+                      "warp":  {
+                                   "type":  "cylindrical",
+                                   "strength":  0.05,
+                                   "direction":  "vertical"
+                               },
+                      "stainless":  {
+                                        "preset":  "stainless_brushed_vertical",
+                                        "grain":  "vertical",
+                                        "knockout_white":  245,
+                                        "texture_path":  "C:\\Users\\Louie\\Design Creator\\textures\\stainless_custom.jpg"
+                                    }
+                  }
+              ],
+    "output":  {
+                   "views":  [
+                                 {
+                                     "name":  "tight",
+                                     "margin":  0.06
+                                 },
+                                 {
+                                     "name":  "wide",
+                                     "margin":  0.14
+                                 }
+                             ]
+               }
+}

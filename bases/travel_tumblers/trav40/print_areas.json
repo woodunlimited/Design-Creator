@@ -1,0 +1,59 @@
+{
+    "image":  "LTM7401_BLANK.png",
+    "variants":  [
+                     "LTM7402_BLANK.png",
+                     "LTM7403_BLANK.png",
+                     "LTM7404_BLANK.png",
+                     "LTM7405_BLANK.png",
+                     "LTM7406_BLANK.png",
+                     "LTM7407_BLANK.png",
+                     "LTM7408_BLANK.png",
+                     "LTM7409_BLANK.png",
+                     "LTM7410_BLANK.png",
+                     "LTM7411_BLANK.png",
+                     "LTM7412_BLANK.png",
+                     "LTM7413_BLANK.png",
+                     "LTM7414_BLANK.png",
+                     "LTM7415_BLANK.png",
+                     "LTM7416_BLANK.png"
+                 ],
+    "areas":  [
+                  {
+                      "id":  "front",
+                      "shape":  "rect",
+                      "units":  "norm",
+                      "rect":  {
+                                   "x":  0.2633,
+                                   "y":  0.2056,
+                                   "w":  0.3356,
+                                   "h":  0.3961
+                               },
+                      "fit":  "contain",
+                      "padding_ratio":  0,
+                      "align":  "center",
+                      "warp":  {
+                                   "type":  "cylindrical",
+                                   "strength":  0.05,
+                                   "direction":  "vertical"
+                               },
+                      "stainless":  {
+                                        "preset":  "stainless_brushed_vertical",
+                                        "grain":  "vertical",
+                                        "knockout_white":  245,
+                                        "texture_path":  "C:\\Users\\Louie\\Design Creator\\textures\\stainless_custom.jpg"
+                                    }
+                  }
+              ],
+    "output":  {
+                   "views":  [
+                                 {
+                                     "name":  "tight",
+                                     "margin":  0.06
+                                 },
+                                 {
+                                     "name":  "wide",
+                                     "margin":  0.14
+                                 }
+                             ]
+               }
+}

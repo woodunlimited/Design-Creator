@@ -1,0 +1,86 @@
+[
+  {
+    "version": "V1 WAIST UP",
+    "crop_src_px": [
+      205,
+      300,
+      770,
+      870
+    ],
+    "panel_mm": [
+      101.1,
+      102.0
+    ],
+    "upscale": 1.77,
+    "lbrn2": "TUMBLER 20oz FULL WRAP - PHOTO V1 WAIST UP - LTM7281 WHITE-BLACK - IGES - 11.04.2026.lbrn2",
+    "note": "Recommended. Faces ~19 mm tall, the most detail for a 20oz cup."
+  },
+  {
+    "version": "V2 WAIST UP - PEOPLE POP",
+    "crop_src_px": [
+      205,
+      300,
+      770,
+      870
+    ],
+    "panel_mm": [
+      101.1,
+      102.0
+    ],
+    "upscale": 1.77,
+    "lbrn2": "TUMBLER 20oz FULL WRAP - PHOTO V2 WAIST UP - PEOPLE POP - LTM7281 WHITE-BLACK - IGES - 11.04.2026.lbrn2",
+    "note": "Same crop as V1, background lightened and softened so the couple stands out."
+  },
+  {
+    "version": "V3 KNEES UP WITH OCEAN",
+    "crop_src_px": [
+      120,
+      290,
+      860,
+      1110
+    ],
+    "panel_mm": [
+      92.1,
+      102.0
+    ],
+    "upscale": 1.23,
+    "lbrn2": "TUMBLER 20oz FULL WRAP - PHOTO V3 KNEES UP WITH OCEAN - LTM7281 WHITE-BLACK - IGES - 11.04.2026.lbrn2",
+    "note": "More ocean and palms. Faces ~14 mm tall."
+  },
+  {
+    "version": "V4 FULL LENGTH",
+    "crop_src_px": [
+      60,
+      255,
+      905,
+      1350
+    ],
+    "panel_mm": [
+      80.2,
+      104.0
+    ],
+    "upscale": 0.94,
+    "lbrn2": "TUMBLER 20oz FULL WRAP - PHOTO V4 FULL LENGTH - LTM7281 WHITE-BLACK - IGES - 11.04.2026.lbrn2",
+    "note": "Whole photo. Faces only ~9 mm tall, so facial detail will be soft. Comparison only."
+  },
+  {
+    "settings": {
+      "speed": 500,
+      "power": 80,
+      "interval": 0.0801262,
+      "angle": 180,
+      "dither": "stucki",
+      "dpi": 317
+    },
+    "blank": "LTM7281 WHITE-BLACK",
+    "wrap_mm": [
+      278.3,
+      110.456
+    ],
+    "bitmap_px": [
+      2752,
+      1278
+    ],
+    "xform": "-4.4203774e-09 0.10112645 -0.086428799 -3.7779229e-09 223.43387 147.4137"
+  }
+]
